@@ -2,9 +2,10 @@
 #include <QtWidgets>
 #include <QtCore/qmath.h>
 #include <qmath.h>
+#include "MyBlurEffect.h"
 
 BlurWidget::BlurWidget(QWidget* parent)
-    : QGraphicsView(parent), m_index(0), m_animation(this, "index"), m_counter(0)
+    : QGraphicsView(parent), m_counter(0), m_index(0),  m_animation(this, "index")
 {
     setBackgroundBrush(QPixmap(":/Png_icons/background.jpg"));
     setScene(new QGraphicsScene(this));
@@ -38,7 +39,7 @@ void BlurWidget::setupScene()
         QPixmap pixmap(names[i]);
         QGraphicsPixmapItem* icon = scene()->addPixmap(pixmap);
         icon->setZValue(1);
-
+        icon->setGraphicsEffect(new MyBlurEffect(icon));
         m_icons << icon;
     }
 
@@ -53,6 +54,7 @@ qreal BlurWidget::index() const
 {
     return m_index;
 }
+
 
 
 

@@ -1,5 +1,6 @@
 SOURCES += \
     BlurWidget.cpp \
+    MyBlurEffect.cpp \
     blureffect.cpp \
     blurpicker.cpp \
     main.cpp
@@ -11,6 +12,7 @@ RESOURCES += \
 
 HEADERS += \
     BlurWidget.h \
+    MyBlurEffect.h \
     blureffect.h \
     blurpicker.h
 

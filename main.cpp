@@ -1,6 +1,7 @@
 #include <QApplication>
 #include "BlurWidget.h"
 #include "blurpicker.h"
+#include "MyBlurEffect.h"
 
 int main(int argc, char* argv[])
 {
