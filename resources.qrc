@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Png_Icons/authenticator (1).png</file>
+        <file>Png_Icons/chrome (1).png</file>
+        <file>Png_Icons/drive (1).png</file>
+        <file>Png_Icons/dropbox (1).png</file>
+        <file>Png_Icons/evernote (1).png</file>
+        <file>Png_Icons/gallery (1).png</file>
+        <file>Png_Icons/home (1).png</file>
+        <file>Png_Icons/instagram (1).png</file>
+        <file>Png_Icons/lightbulb (1).png</file>
+        <file>Png_Icons/lose (1).png</file>
+        <file>Png_Icons/navigation (1).png</file>
+        <file>Png_Icons/phone (1).png</file>
+        <file>Png_Icons/play (1).png</file>
+        <file>Png_Icons/quickpic (1).png</file>
+        <file>Png_Icons/train (1).png</file>
+        <file>Png_Icons/voice (1).png</file>
+        <file>Png_Icons/help-browser.png</file>
+        <file>Png_Icons/background.jpg</file>
+        <file>Png_Icons/14.png</file>
+        <file>Png_Icons/android.png</file>
+        <file>Png_Icons/authenticator.png</file>
+        <file>Png_Icons/camera (1).png</file>
+        <file>Png_Icons/camera.png</file>
+        <file>Png_Icons/chrome.png</file>
+        <file>Png_Icons/drive.png</file>
+        <file>Png_Icons/dropbox.png</file>
+        <file>Png_Icons/evernote.png</file>
+        <file>Png_Icons/gallery.png</file>
+        <file>Png_Icons/home.png</file>
+        <file>Png_Icons/instagram.png</file>
+        <file>Png_Icons/lightbulb.png</file>
+        <file>Png_Icons/lose.png</file>
+        <file>Png_Icons/minecraft.png</file>
+        <file>Png_Icons/navigation.png</file>
+        <file>Png_Icons/phone.png</file>
+        <file>Png_Icons/play (2).png</file>
+        <file>Png_Icons/play.png</file>
+        <file>Png_Icons/quickpic.png</file>
+        <file>Png_Icons/train.png</file>
+        <file>Png_Icons/viber.png</file>
+        <file>Png_Icons/voice.png</file>
+        <file>Png_Icons/whatsapp (1).png</file>
+        <file>Png_Icons/whatsapp.png</file>
+        <file>images/accessories-text-editor.png</file>
+        <file>images/background.jpg</file>
+        <file>images/help-browser.png</file>
+        <file>images/internet-group-chat.png</file>
+        <file>images/internet-mail.png</file>
+        <file>images/internet-web-browser.png</file>
+        <file>images/office-calendar.png</file>
+        <file>images/README.txt</file>
+        <file>images/system-users.png</file>
+        <file>images/chrome.png</file>
+    </qresource>
+</RCC>
